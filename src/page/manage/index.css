@@ -1,0 +1,10 @@
+.manage-page{
+  display: flex;
+}
+.manage-page ul {
+  margin-right: 250px;
+}
+.form-box{
+ display: flex;
+  flex-direction: column;
+}
